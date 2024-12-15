@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 1600px;
+    margin: 0px auto;
+    border: 1px solid white;
+}
+.block {
+    border: 1px solid white;
+    background-color: goldenrod;
+    padding: 60px;
+}
+.wrapper {
+    font-size: 30px;
+}
+.xxx {
+    font-size: 100px
+}
+nav {
+    display: flex;
+    width: 600px;
+    gap: 160px;
+    margin-left: 100px;
+
+}
+.img {
+    width: 1593px;
+    margin-top: 40px;
+
+}
+.container {
+    display: flex;
+}
+main {
+    width: 990px;
+    padding: 8px;
+    border: 1px solid white;
+    margin-left: 60px;
+}
+main a {
+    color: goldenrod;
+}
+.bbb {
+    line-height: 47px;
+    font-size: 30px;
+    color: #525252;
+    margin: 30px;
+}
+.aaa {
+    font-size: 60px;
+    padding-top: 60px;
+    margin-left: 25px;
+}
+.aaa1 {
+    font-size: 60px;
+    margin-left: 25px;
+}
+.nnn {
+    margin-top: 100px;
+}
+.left {
+    width: 520px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px solid white;
+    line-height: 47px;
+}
+.left p {
+    color: #525252;
+}
+.left ul {
+    text-decoration: underline;
+    color: goldenrod;
+    list-style-image: url("/img/li.gif");
+    margin-left: -20px;
+    line-height: 60px;
+}
+.hr {
+    color: #ebe5e5;
+    width: 300px;
+}
+footer {
+    padding: 30px 0;
+    border: 1px solid white;
+    text-align: center;
+    margin-top: 70px;
+    border: 1px solid white;
+}
+.sss {
+    color: #525252;
+}
+footer a {
+    color: goldenrod;
+}
+nav a {
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    font: 25px arial;
+}
+nav a:hover, nav a active {
+    text-decoration: underline;
+}
+
+main p {
+    margin: 10px 0;
+    text-align: justify;
+    font: 15px arial;
+}
+button {
+    color: goldenrod;
+    background-color: white;
+    outline: none;
+    padding: 20px;
+    margin-left: 800px;
+    font-size: 18px;
+    border-color: rgb(170, 163, 163);
+}
